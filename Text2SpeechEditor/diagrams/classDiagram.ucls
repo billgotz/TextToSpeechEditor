@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="commands.DocumentToSpeechReverse" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/DocumentToSpeechReverse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="1744"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="commands.TuneEncodingStrategy" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/TuneEncodingStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="-66"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="commands.ReplayCommand" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/ReplayCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="368" y="465"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="commands.SaveDocument" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/SaveDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="357" y="1350"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="commands.CommandsFactory" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/CommandsFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="124" y="-9"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="commands.DocumentToSpeechEncoded" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/DocumentToSpeechEncoded.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="359" y="1858"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="commands.LineToSpeechEncoded" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/LineToSpeechEncoded.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="356" y="769"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="commands.ReplayManager" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/ReplayManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="364" y="635"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="commands.DocumentToSpeech" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/DocumentToSpeech.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="1635"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="commands.OpenDocument" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/OpenDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="356" y="1222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="commands.LineToSpeechReverse" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/LineToSpeechReverse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="355" y="873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="commands.NewDocument" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/NewDocument.java" binary="false" corner="BOTTOM_LEFT">    
+    <position height="-1" width="-1" x="355" y="1101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="commands.LineToSpeech" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/LineToSpeech.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="355" y="977"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="commands.TuneAudio" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/TuneAudio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="363" y="134"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="commands.EditDocument" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/EditDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="1504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="commands.LineChooser" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/commands/LineChooser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="361" y="322"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="encodingstrategies.AtBashEncoding" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/encodingstrategies/AtBashEncoding.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1093" y="638"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="encodingstrategies.EncodingStrategy" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/encodingstrategies/EncodingStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1028" y="292"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" name="encodingstrategies.StrategiesFactory" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/encodingstrategies/StrategiesFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="967" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="encodingstrategies.TemplateEncoding" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/encodingstrategies/TemplateEncoding.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1165" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="encodingstrategies.Rot13Encoding" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/encodingstrategies/Rot13Encoding.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="770" y="628"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="model.Document" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/model/Document.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="690" y="215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="model.Line" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/model/Line.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1008" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="view.Text2SpeechEditorView" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/view/Text2SpeechEditorView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="748" y="1093"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="text2speechapis.FreeTTSAdapter" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/text2speechapis/FreeTTSAdapter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="965" y="1559"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="text2speechapis.TextToSpeechAPI" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/text2speechapis/TextToSpeechAPI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1089" y="1241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="text2speechapis.FakeTextToSpeech" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/text2speechapis/FakeTextToSpeech.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1144" y="1555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="text2speechapis.TextToSpeechAPIFactory" project="Text2SpeechEditor" 
+    file="/Text2SpeechEditor/src/text2speechapis/TextToSpeechAPIFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1059" y="1029"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="29">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <association id="30">    
+    <bendpoint x="470" y="1308"/>    
+    <bendpoint x="481" y="866"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="31" name="currentDocument"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="1193" y="194"/>    
+    <bendpoint x="1269" y="351"/>    
+    <bendpoint x="1270" y="729"/>    
+    <bendpoint x="1177" y="728"/>    
+    <bendpoint x="1177" y="1102"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="34" name="audioManager"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <realization id="37">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <dependency id="38">    
+    <bendpoint x="473" y="764"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="472" y="1827"/>    
+    <bendpoint x="511" y="1344"/>    
+    <bendpoint x="526" y="1307"/>    
+    <bendpoint x="539" y="870"/>    
+    <bendpoint x="615" y="534"/>    
+    <bendpoint x="832" y="494"/>    
+    <bendpoint x="832" y="349"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <association id="40">    
+    <bendpoint x="606" y="712"/>    
+    <bendpoint x="534" y="443"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="41" name="currentDocument"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <bendpoint x="554" y="1344"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="44" name="editor"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="47">    
+    <bendpoint x="203" y="1741"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="48">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="49" name="singletonView"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <bendpoint x="566" y="708"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="52" name="replayManager"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="55" name="audioManager"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="57">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="59">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="60">    
+    <bendpoint x="464" y="1457"/>    
+    <bendpoint x="467" y="1335"/>    
+    <bendpoint x="481" y="1308"/>    
+    <bendpoint x="481" y="1194"/>    
+    <bendpoint x="491" y="865"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="61">    
+    <bendpoint x="466" y="1601"/>    
+    <bendpoint x="478" y="1337"/>    
+    <bendpoint x="493" y="1303"/>    
+    <bendpoint x="499" y="1022"/>    
+    <bendpoint x="504" y="868"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="62">    
+    <bendpoint x="795" y="720"/>    
+    <bendpoint x="1259" y="720"/>    
+    <bendpoint x="1260" y="621"/>    
+    <bendpoint x="1260" y="358"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="63" name="strategy"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="65">    
+    <bendpoint x="460" y="951"/>    
+    <bendpoint x="459" y="860"/>    
+    <bendpoint x="483" y="797"/>    
+    <bendpoint x="523" y="689"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="67">    
+    <bendpoint x="469" y="248"/>    
+    <bendpoint x="603" y="724"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="68" name="editor"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="70">    
+    <bendpoint x="244" y="1340"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="1194" y="1125"/>    
+    <bendpoint x="1172" y="1171"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="465" y="1194"/>    
+    <bendpoint x="469" y="864"/>    
+    <bendpoint x="534" y="682"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <generalization id="73">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="74">    
+    <bendpoint x="839" y="103"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="75" name="contents"/>      
+      <multiplicity id="76" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="77">    
+    <bendpoint x="246" y="853"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="78">    
+    <bendpoint x="456" y="847"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="79">    
+    <bendpoint x="256" y="453"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="80">    
+    <bendpoint x="184" y="1852"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="81">    
+    <bendpoint x="1204" y="-65"/>    
+    <bendpoint x="1130" y="254"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="82" name="strategy"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <dependency id="85">    
+    <bendpoint x="249" y="740"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="86">    
+    <bendpoint x="239" y="1510"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="87">    
+    <bendpoint x="466" y="1818"/>    
+    <bendpoint x="501" y="1342"/>    
+    <bendpoint x="515" y="1307"/>    
+    <bendpoint x="529" y="865"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="88">    
+    <bendpoint x="250" y="1081"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="89">    
+    <bendpoint x="221" y="1609"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="90">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="91" name="replayManager"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="93">    
+    <bendpoint x="237" y="902"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="94">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="95" name="line"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="97">    
+    <bendpoint x="465" y="1744"/>    
+    <bendpoint x="490" y="1337"/>    
+    <bendpoint x="504" y="1305"/>    
+    <bendpoint x="509" y="1115"/>    
+    <bendpoint x="516" y="867"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="98">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="99" name="strategy"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="101">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="102">    
+    <bendpoint x="255" y="326"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="103">    
+    <bendpoint x="462" y="745"/>    
+    <bendpoint x="487" y="706"/>    
+    <bendpoint x="505" y="549"/>    
+    <bendpoint x="671" y="512"/>    
+    <bendpoint x="822" y="485"/>    
+    <bendpoint x="824" y="336"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="104">    
+    <bendpoint x="248" y="589"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="105">    
+    <bendpoint x="898" y="1118"/>    
+    <bendpoint x="897" y="1305"/>    
+    <bendpoint x="966" y="1326"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="106">    
+    <bendpoint x="222" y="47"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="108">    
+    <bendpoint x="1286" y="203"/>    
+    <bendpoint x="1289" y="739"/>    
+    <bendpoint x="1185" y="739"/>    
+    <bendpoint x="1185" y="1213"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="109" name="audioManager"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="112" name="strategy"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="115">    
+    <bendpoint x="127" y="311"/>    
+    <bendpoint x="158" y="1422"/>    
+    <bendpoint x="177" y="1911"/>    
+    <bendpoint x="465" y="1911"/>    
+    <bendpoint x="485" y="1829"/>    
+    <bendpoint x="527" y="1398"/>    
+    <bendpoint x="938" y="1394"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="116" name="audioManager"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="118">    
+    <bendpoint x="250" y="1220"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <realization id="119">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
